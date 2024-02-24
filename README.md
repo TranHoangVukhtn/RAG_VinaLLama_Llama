@@ -1,4 +1,5 @@
-# K32 Thạc sĩ khoa học dữ liệu. Phân tích dữ liệu chuyên biệt, hướng AI/ML, project retrieval-augmented-generation
+# K32 Thạc sĩ khoa học dữ liệu. Khai thác văn bản và ứng dụng, project retrieval-augmented-generation, RAG cho luật đất đai
+
 Giảng Viên: TS. Ngô Minh Mẫn
 
 Học Viên: Trần Hoàng Vũ 22C01027
