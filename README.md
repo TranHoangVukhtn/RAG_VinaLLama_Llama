@@ -1,13 +1,13 @@
 # K32 Thạc sĩ khoa học dữ liệu. Phân tích dữ liệu chuyên biệt, hướng AI/ML, project retrieval-augmented-generation
 Giảng Viên: TS. Ngô Minh Mẫn
 
-Học Viên: Trần Hoàng Vũ 22C01027, 
+Học Viên: Trần Hoàng Vũ 22C01027
 
-Mai Đức Toàn 22C01036, 
+Học Viên: Mai Đức Toàn 22C01036
 
-Lê Thị Thanh Xuân 22C01028,
+Học Viên: Lê Thị Thanh Xuân 22C01028
 
-Nguyên Minh Trí 20C29017
+Học Viên: Nguyên Minh Trí 20C29017
 
 
 
